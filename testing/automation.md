@@ -4,6 +4,12 @@
 - Makes tests run instantly
 - Prevents all bugs
 
+# What is a test automation framework?
+- A set of guidelines and tools for creating and running automated tests x
+- A type of programming language
+- A manual testing technique
+- A bug tracking system
+
 # Which types of tests are good candidates for automation?
 - Frequently executed tests x
 - Tests requiring human judgment
@@ -14,12 +20,6 @@
 - Automated tests require initial time investment t
 - All tests should be automated f
 - Automated tests can be run repeatedly without additional effort t
-
-# What is a test automation framework?
-- A set of guidelines and tools for creating and running automated tests x
-- A type of programming language
-- A manual testing technique
-- A bug tracking system
 
 # Which statements about test automation are correct?
 - Automated tests can provide faster feedback than manual tests t

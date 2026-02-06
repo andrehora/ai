@@ -10,10 +10,11 @@
 - Refactor, write test, write code
 - Write code, refactor, write test
 
-# Evaluate these statements about TDD:
-- TDD helps improve code design t
-- TDD eliminates all bugs f
-- TDD requires writing tests before implementation code t
+# In TDD, what does "Red-Green-Refactor" mean?
+- Red: failing test, Green: passing test, Refactor: improve code x
+- Red: error, Green: success, Refactor: rewrite
+- Red: stop, Green: go, Refactor: change
+- Red: delete, Green: add, Refactor: modify
 
 # Which of the following are benefits of TDD?
 - Better code coverage x
@@ -21,8 +22,7 @@
 - Living documentation x
 - Reduced debugging time x
 
-# In TDD, what does "Red-Green-Refactor" mean?
-- Red: failing test, Green: passing test, Refactor: improve code x
-- Red: error, Green: success, Refactor: rewrite
-- Red: stop, Green: go, Refactor: change
-- Red: delete, Green: add, Refactor: modify
+# Evaluate these statements about TDD:
+- TDD helps improve code design t
+- TDD eliminates all bugs f
+- TDD requires writing tests before implementation code t
