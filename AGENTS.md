@@ -4,7 +4,7 @@
 - A quiz has between 1 and 5 questions
 - A question has between 2 and 5 choices 
 - A quiz should be saved a in `.md` file
-- The file should be named with a relevant keyword about the quiz topic
+- The file should be named with a relevant keyword about the quiz topic, without hyphen
 
 ## Question description
 - Question starts with "#", example, `# What is 2 + 2?`
